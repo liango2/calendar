@@ -107,7 +107,7 @@
 }
 
 #cal_day .selected {
-  color: #767676;
+  background-color: mediumblue;
 }
 
 #cal_day .today_selected {
